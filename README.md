@@ -2,12 +2,12 @@
 
 ### Table of Contents
 * [Company Details](#company-details)
-* [Project Overview](#ProjectOverview)
-    * [Business Problem](#BusinessProblem)
-    * [Approach & Methodology](#Approach&Methodology)
-    * [Key Insights & Outcomes](#KeyInsights&Outcomes)
-    * [Technical Details](#TechnicalDetails)
-    * [Key Learnings](#KeyLearnings)
+* [Project Overview](#project-overview)
+    * [Business Problem](#business-Problem)
+    * [Approach & Methodology](#approach-and-methodology)
+    * [Key Insights & Outcomes](#key-insights-and-outcomes)
+    * [Technical Details](#technical-details)
+    * [Key Learnings](#key-learnings)
  
 ### Company Details
 **AtliQ Hardware** is a prominent electronics accessories company that specializes in providing a wide range of high-quality hardware solutions, including connectors, cables, circuit boards, and other essential components for electronic devices and systems. They cater to both individual consumers and businesses, emphasizing quality and performance to meet the evolving needs of their customers.
@@ -36,3 +36,12 @@ The report provides an overview of the company's financial performance, includin
 * **Profit & Loss Report by Markets:** [File](https://github.com/BaderNader321/Finance-Sales-Report/blob/103c045ceaf5f9f1138b531a3cd16306608aa39b/Finance%20Analysis/P%26L%20Report%20by%20Markets.pdf)
 
 #### Business Problem
+The organization faced challenges with fragmented data sources and inconsistent reporting, which limited its ability to effectively analyze and improve sales and financial performance. This project focused on consolidating sales and financial data using Excel to deliver comprehensive insights into customer behavior, market comparisons, and financial health. By utilizing advanced Excel tools like Pivot Tables, Power Pivot, and VLOOKUP, the project aimed to develop intuitive and actionable reports that empower data-driven decision-making and strategic planning.
+
+#### Approach and Methodology
+
+#### Key Insights and Outcomes
+
+#### Technical Details 
+
+#### Key Learnings
