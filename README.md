@@ -81,10 +81,6 @@ The development of the Sales and Finance reports followed a structured methodolo
    * The grand total sales fell short of the 2021 target by **$54.9M (-9.2%)**, emphasizing the need for a review of forecasting accuracy        and market strategies.
 
 **Financial Analysis:**
-   *
-
-##### From Customer Performance Report:
-##### From Profit & Loss:
 
 #### Technical Skills 
 - Utilized **Excel formulas and functions** to calculate key metrics, including Cost of Goods Sold (COGS), Net Profit, Gross Margin, and Gross Margin Percentage.  
