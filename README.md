@@ -41,6 +41,37 @@ The report provides an overview of the company's financial performance, includin
 The organization faced challenges with fragmented data sources and inconsistent reporting, which limited its ability to effectively analyze and improve sales and financial performance. This project focused on consolidating sales and financial data using Excel to deliver comprehensive insights into customer behavior, market comparisons, and financial health. By utilizing advanced Excel tools like Pivot Tables, Power Pivot, and VLOOKUP, the project aimed to develop intuitive and actionable reports that empower data-driven decision-making and strategic planning.
 
 #### Approach and Methodology
+The development of the Sales and Finance reports followed a structured methodology to ensure accuracy, usability, and actionable insights:
+
+1. **Requirement Analysis**  
+   Engaged with stakeholders to define the key objectives for the reports, focusing on tracking customer performance, market trends, and       financial health. Established clear metrics, such as revenue, COGS, gross margin, and target comparisons, as priorities for the analysis.
+
+2. **Data Preparation**  
+   - Collected raw data from diverse sources, including transactional records and financial reports.  
+   - Used **Power Query** to clean and transform data by handling missing values, removing duplicates, correcting errors, and standardizing      formats.  
+   - Incorporated supplementary datasets, such as sales targets and expense data, to enrich the analysis.  
+
+3. **Data Modelling**  
+   - Built a robust data model in Excel using **Power Pivot**, establishing relationships between datasets like customer, market, and    
+     product data.  
+   - Generated calculated columns and measures using **DAX** to facilitate detailed analysis of KPIs.  
+
+4. **Report Development**  
+   - Designed custom **Pivot Tables** for insights into sales performance by customer and market, enabling comparisons against targets.  
+   - Developed **Profit & Loss (P&L) Reports** to highlight financial performance by fiscal year and market, with metrics such as net            sales, gross margin, and gross margin percentage.  
+   - Applied **Excel formulas and functions** for precise calculations of financial and sales metrics.  
+
+5. **Data Visualization**  
+   - Created clear and visually appealing charts to represent trends, comparisons, and variances effectively.  
+   - Used **Conditional Formatting** to highlight critical data points, such as top-performing customers or markets not meeting targets.  
+
+6. **Validation and Refinement**  
+   - Cross-verified the accuracy of calculations and data transformations.  
+   - Iterated on report design and structure based on stakeholder feedback to improve usability and relevance.  
+
+7. **Actionable Insights Delivery**  
+   - Provided insights into customer and market performance, pinpointing areas for improvement and growth opportunities.  
+   - Highlighted key financial metrics to guide data-driven decision-making for budgeting and strategic planning.  
 
 #### Key Insights and Outcomes
 
