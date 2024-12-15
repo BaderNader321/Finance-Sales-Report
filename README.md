@@ -1,4 +1,4 @@
-# Finance & Sales Report
+# Finance and Sales Report
 
 ### Table of Contents
 * [Company Details](#company-details)
@@ -66,7 +66,7 @@ The organization faced challenges with fragmented data sources and inconsistent 
 
 ***
 
-[Back to the Top](#finance-&-sales-report)
+[Back to the Top](#finance-and-sales-report)
 
 ### Data Modelling
 Connected various datasets by establishing relationships and understanding fiscal year concepts.
@@ -101,4 +101,4 @@ Connected various datasets by establishing relationships and understanding fisca
 
 ***
 
-[Back to the Top](#finance-&-sales-report)
+[Back to the Top](#finance-and-sales-report)
