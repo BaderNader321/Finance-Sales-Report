@@ -74,12 +74,17 @@ The development of the Sales and Finance reports followed a structured methodolo
    - Highlighted key financial metrics to guide data-driven decision-making for budgeting and strategic planning.  
 
 #### Key Insights and Outcomes
-##### From Market Performance vs Targets Report:
-* The **USA**, **India**, and **Canada** showed the largest shortfalls against targets,        missing by **$10.2M**, **$9.6M**, and **$5.1M**, respectively, which impacts the overall performance.
 
-* **Poland (-18.1%)**, **Canada (-14.5%)**, and **Spain (-14.1%)** experienced the largest percentage        gaps from their targets, indicating potential inefficiencies or unmet demand in these regions.
+**Sales Analysis:**
+   * The **USA**, **India**, and **Canada** showed the largest shortfalls against targets, missing by **$10.2M**, **$9.6M**, and **$5.1M**,      respectively, which impacts the overall performance.
+   * **Poland (-18.1%)**, **Canada (-14.5%)**, and **Spain (-14.1%)** experienced the largest percentage gaps from their targets,                indicating potential inefficiencies or unmet demand in these regions.
+   * The grand total sales fell short of the 2021 target by **$54.9M (-9.2%)**, emphasizing the need for a review of forecasting accuracy        and market strategies.
 
-* The grand total sales fell short of the 2021 target by **$54.9M (-9.2%)**, emphasizing the need for a review of forecasting accuracy and market strategies.
+**Financial Analysis:**
+   *
+
+##### From Customer Performance Report:
+##### From Profit & Loss:
 
 #### Technical Skills 
 - Utilized **Excel formulas and functions** to calculate key metrics, including Cost of Goods Sold (COGS), Net Profit, Gross Margin, and Gross Margin Percentage.  
