@@ -3,7 +3,7 @@
 ### Table of Contents
 * [Company Details](#company-details)
 * [Project Overview](#project-overview)
-    * [Business Problem](#business-Problem)
+    * [Business Problem](#business-problem)
     * [Approach & Methodology](#approach-and-methodology)
     * [Key Insights & Outcomes](#key-insights-and-outcomes)
     * [Technical Skills](#technical-skills)
@@ -64,9 +64,41 @@ The organization faced challenges with fragmented data sources and inconsistent 
 * Optimization of report generation through meticulous fine-tuning.
 * Developing a systematic approach to devising a report-building plan.
 
+***
+
+[Back to the Top](#finance-&-sales-report)
+
 ### Data Modelling
 Connected various datasets by establishing relationships and understanding fiscal year concepts.
+
 <img src="https://github.com/BaderNader321/Finance-Sales-Report/blob/226380e53b709bbc9c8f1e6a446343b28aa611d7/Data%20Modelling.png" class="center">
 
 ### Other Reports
 
+**GM% By Quarters & Sub-Zone:** [File](https://github.com/BaderNader321/Finance-Sales-Report/blob/9d2ca4e8c3e5d353f463ffa7742bb4f0475e7583/Finance%20Analysis/P%26L%20Report%20(GM%25%20by%20Quarters%20%26%20Sub-Zone).pdf)
+
+<img src="https://github.com/BaderNader321/Finance-Sales-Report/blob/5a607a685cd9eccb3fa8ea3f2610d6831fda6fca/GM%25%20by%20quarters%20and%20sub%20zone.png" class="center">
+
+**Top 10 products based on the percentage increase in their net sales from 2020 to 2021.**
+
+<img src="https://github.com/BaderNader321/Finance-Sales-Report/blob/9da3fe669dfbeff94a79c69610d351b143a196a2/Images/Final%20Report_page-0001.jpg" class="center">
+
+**Division Report:** Generate a "Division" report to present the net sales data for 2020 and 2021, along with the growth percentage.
+
+<img src="https://github.com/BaderNader321/Finance-Sales-Report/blob/9da3fe669dfbeff94a79c69610d351b143a196a2/Images/Final%20Report_page-0002.jpg" class="center">
+
+**Top 5 and bottom 5 in terms of quantity sold.**
+
+<img src="https://github.com/BaderNader321/Finance-Sales-Report/blob/9da3fe669dfbeff94a79c69610d351b143a196a2/Images/Final%20Report_page-0003.jpg" class="center">
+
+**New products that Atliq began selling in 2021.**
+
+<img src="https://github.com/BaderNader321/Finance-Sales-Report/blob/9da3fe669dfbeff94a79c69610d351b143a196a2/Images/Final%20Report_page-0004.jpg" class="center">
+
+**Top 5 countries in terms of net sales in 2021.**
+
+<img src="https://github.com/BaderNader321/Finance-Sales-Report/blob/9da3fe669dfbeff94a79c69610d351b143a196a2/Images/Final%20Report_page-0005.jpg" class="center">
+
+***
+
+[Back to the Top](#finance-&-sales-report)
