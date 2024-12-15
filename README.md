@@ -44,18 +44,29 @@ The organization faced challenges with fragmented data sources and inconsistent 
 
 #### Key Insights and Outcomes
 
-#### Technical Details 
+#### Technical Skills 
 - Utilized **Excel formulas and functions** to calculate key metrics, including Cost of Goods Sold (COGS), Net Profit, Gross Margin, and Gross Margin Percentage.  
 - Applied **Conditional Formatting** to emphasize critical numbers and highlight significant data points for easy identification.  
 - Leveraged **Power Query** for data cleaning tasks such as removing duplicates, handling missing data, correcting inaccuracies, standardizing formats, and managing outliers.
 - Established data model relationships with **Power Pivot**.
+- Utilized **DAX** to create calculated columns.
 - Created customized reports using **Pivot Tables** to meet specific business requirements.  
 - Designed **charts** and visualizations to represent data effectively, making it easier to interpret trends and derive actionable insights.  
 
 #### Key Learnings
+* Proficiency in ETL methodology (Extract, Transform, Load).
+* Skills to generate a date table using Power Query.
+* Ability to derive fiscal months and quarters.
+* Establishing data model relationships with Power Pivot.
+* Proficiency in incorporating supplementary data into an existing data model. 
+* Refined understanding of Sales & Finance Reports
+* Designing user-centric reports with empathy in mind.
+* Optimization of report generation through meticulous fine-tuning.
+* Developing a systematic approach to devising a report-building plan.
 
 ### Data Modelling
 Connected various datasets by establishing relationships and understanding fiscal year concepts.
-<img src=
+<img src="https://github.com/BaderNader321/Finance-Sales-Report/blob/226380e53b709bbc9c8f1e6a446343b28aa611d7/Data%20Modelling.png" class="center">
 
-- 
+### Other Reports
+
