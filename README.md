@@ -6,8 +6,10 @@
     * [Business Problem](#business-Problem)
     * [Approach & Methodology](#approach-and-methodology)
     * [Key Insights & Outcomes](#key-insights-and-outcomes)
-    * [Technical Details](#technical-details)
+    * [Technical Skills](#technical-skills)
     * [Key Learnings](#key-learnings)
+* [Data Modelling](#data-modelling)
+* [Other Reports](#other-reports)
  
 ### Company Details
 **AtliQ Hardware** is a prominent electronics accessories company that specializes in providing a wide range of high-quality hardware solutions, including connectors, cables, circuit boards, and other essential components for electronic devices and systems. They cater to both individual consumers and businesses, emphasizing quality and performance to meet the evolving needs of their customers.
@@ -43,5 +45,17 @@ The organization faced challenges with fragmented data sources and inconsistent 
 #### Key Insights and Outcomes
 
 #### Technical Details 
+- Utilized **Excel formulas and functions** to calculate key metrics, including Cost of Goods Sold (COGS), Net Profit, Gross Margin, and Gross Margin Percentage.  
+- Applied **Conditional Formatting** to emphasize critical numbers and highlight significant data points for easy identification.  
+- Leveraged **Power Query** for data cleaning tasks such as removing duplicates, handling missing data, correcting inaccuracies, standardizing formats, and managing outliers.
+- Established data model relationships with **Power Pivot**.
+- Created customized reports using **Pivot Tables** to meet specific business requirements.  
+- Designed **charts** and visualizations to represent data effectively, making it easier to interpret trends and derive actionable insights.  
 
 #### Key Learnings
+
+### Data Modelling
+Connected various datasets by establishing relationships and understanding fiscal year concepts.
+<img src=
+
+- 
