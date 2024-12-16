@@ -76,11 +76,17 @@ The development of the Sales and Finance reports followed a structured methodolo
 #### Key Insights and Outcomes
 
 **Sales Analysis:**
-   * The **USA**, **India**, and **Canada** showed the largest shortfalls against targets, missing by **$10.2M**, **$9.6M**, and **$5.1M**,      respectively, which impacts the overall performance.
-   * **Poland (-18.1%)**, **Canada (-14.5%)**, and **Spain (-14.1%)** experienced the largest percentage gaps from their targets,                indicating potential inefficiencies or unmet demand in these regions.
-   * The grand total sales fell short of the 2021 target by **$54.9M (-9.2%)**, emphasizing the need for a review of forecasting accuracy        and market strategies.
+   * The **USA**, **India**, and **Canada** showed the largest shortfalls against targets, missing by **$10.2M**, **$9.6M**, and **$5.1M**, respectively, which impacts the overall              performance.
+   * **Poland (-18.1%)**, **Canada (-14.5%)**, and **Spain (-14.1%)** experienced the largest percentage gaps from their targets, indicating potential inefficiencies or unmet demand in         these regions.
+   * The grand total sales fell short of the 2021 target by **$54.9M (-9.2%)**, emphasizing the need for a review of forecasting accuracy and market strategies.
 
 **Financial Analysis:**
+   * The company’s revenue has grown significantly, jumping from **$87.5M in 2019 to $598.9M in 2021** --a huge 204.5% increase.
+   * However, the Gross Margin Percentage dropped from **41.4% in 2019 to 36.4% in 2021**, which could mean the company is finding it harder to stay profitable as it grows.
+   * Key markets like **Australia, Germany, and India** saw their Gross Margins decrease, possibly due to pricing challenges or higher operational costs in those regions.
+   * India is the company’s biggest market, with $161.3M in net sales—much higher than the second-largest market, the USA, which brought in $87.8M. This shows a strong reliance on the          Indian market.
+   * Gross Margins vary widely by market, from just **26.18% in Germany to 48.23% in New Zealand**. This suggests there’s room to optimize strategies in different regions.
+   * The top five markets by sales are **India ($161.3M), USA ($87.8M), Canada ($35.1M), the UK ($34.2M), and the Philippines ($31.9M)**. These are likely the key areas to focus on for         future growth.
 
 #### Technical Skills 
 - Utilized **Excel formulas and functions** to calculate key metrics, including Cost of Goods Sold (COGS), Net Profit, Gross Margin, and Gross Margin Percentage.  
